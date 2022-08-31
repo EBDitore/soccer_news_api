@@ -1,23 +1,27 @@
 [
   {
+   "id": 1,
    "title":"Tempestade interrompe jogo da seleção feminina"
    "description":"Descrição 1"
    "image":"https://ebditore.github.io/soccer_news_api/Images/brasil-sub20.webp"
    "link":"https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/08/13/tempestade-interrompe-jogo-da-selecao-feminina-no-mundial-sub-20.ghtml""
   },
   {
+   "id": 2,
    "title":"Copa América Feminina 2022"
    "description":"Descrição 1"
    "image":"https://ebditore.github.io/soccer_news_api/Images/fseorhx4wutxpecwbl44.webp"
    "link":"https://olympics.com/pt/noticias/copa-america-feminina-2022-favoritos-e-programacao-do-classificatorio-olimpico"
   },  
   {
+   "id": 3,
    "title":"Ttulo 1"
    "description":"Descrição 1"
    "image":"https://ebditore.github.io/soccer_news_api/Images/fseorhx4wutxpecwbl44.webp"
    "link":""
   },
   {
+   "id": 4,
    "title":"Ttulo 1"
    "description":"Descrição 1"
    "image":"https://img.olympicchannel.com/images/image/private/t_16-9_1240-700/f_auto/v1538355600/primary/fseorhx4wutxpecwbl44"
